@@ -38,6 +38,7 @@ Designed with a modern, high-performance dark aesthetic inspired by **GDevelop**
 
 ### Applications & Tools
 - **BrightLight**: Web Bluetooth controller for smart BLE lights (Triones, HappyLighting, IP66).
+- **Edit-Fun**: Interactive web suite of visual tools, simulators, and timers for video editors and content creators.
 - **Etern-Notes**: Cross-platform Kanban task manager and note-taking tool for developers.
 - **Etern-Synth**: Retro 8-bit sound effects synthesizer for indie game developers.
 - **Etern-Audio**: Soundboard and instant audio library for content creators.
