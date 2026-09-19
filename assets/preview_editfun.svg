@@ -32,7 +32,7 @@
   <circle cx="250" cy="134" r="6" fill="#eab308" />
   <circle cx="270" cy="134" r="6" fill="#22c55e" />
   <rect x="380" y="122" width="520" height="24" rx="6" fill="#0d0b1a" />
-  <text x="640" y="138" font-family="'Plus Jakarta Sans', -apple-system, sans-serif" font-size="12" font-weight="600" fill="#94a3b8" text-anchor="middle">https://paucg06.github.io/Edit-Fun/</text>
+  <text x="640" y="138" font-family="'Plus Jakarta Sans', -apple-system, sans-serif" font-size="12" font-weight="600" fill="#94a3b8" text-anchor="middle">https://editfun.eternodev.com</text>
 
   <!-- 5 Tools Visual Blocks inside Showcase -->
   <!-- Tool 1: GoogleFake -->
